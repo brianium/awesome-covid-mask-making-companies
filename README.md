@@ -28,3 +28,6 @@ Markdown format for adding companies:
 
 ### [COLE-TAC](https://www.cole-tac.com/)
 * [Making masks](https://www.gofundme.com/f/operation-face-mask?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
+
+### [Nintendo](https://www.nintendo.com/)
+* [Donating masks](https://www.siliconera.com/nintendo-of-america-gives-a-washington-fire-department-95000-n95-masks/)
