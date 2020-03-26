@@ -31,3 +31,6 @@ Markdown format for adding companies:
 
 ### [Nintendo](https://www.nintendo.com/)
 * [Donating masks](https://www.siliconera.com/nintendo-of-america-gives-a-washington-fire-department-95000-n95-masks/)
+
+### [Razer](https://www.razer.com/)
+* [Making + donating masks](https://www.digitaltrends.com/gaming/razer-to-produce-donate-1-million-surgical-masks/)
