@@ -20,11 +20,14 @@ Markdown format for adding companies:
 ### [Apple](https://apple.com)
 * [Donating masks](https://twitter.com/tim_cook/status/1241458458794188800?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1241458458794188800&ref_url=https%3A%2F%2Fwww.breitbart.com%2Fpolitics%2F2020%2F03%2F24%2Fmypillow-making-face-masks-for-hospitals-during-coronavirus-pandemic%2F)
 
-### [COLE-TAC](https://www.cole-tac.com/)
+### [Blue Alpha Gear](https://www.bluealphagear.com/)
 * [Making masks](https://www.gofundme.com/f/operation-face-mask?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
 
 ### [The Brown Buffalo](https://www.thebrownbuffalo.com/)
 * [Making masks](https://www.gofundme.com/f/operation-face-mask?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
 
-### [Blue Alpha Gear](https://www.bluealphagear.com/)
+### [COLE-TAC](https://www.cole-tac.com/)
 * [Making masks](https://www.gofundme.com/f/operation-face-mask?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
+
+### [Nintendo](https://www.nintendo.com/)
+* [Donating masks](https://www.siliconera.com/nintendo-of-america-gives-a-washington-fire-department-95000-n95-masks/)
