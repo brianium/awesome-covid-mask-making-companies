@@ -29,6 +29,9 @@ Markdown format for adding companies:
 ### [COLE-TAC](https://www.cole-tac.com/)
 * [Making masks](https://www.gofundme.com/f/operation-face-mask?utm_source=customer&utm_medium=copy_link-tip&utm_campaign=p_cp+share-sheet)
 
+### [New Balance](https://www.newbalance.com)
+* [Making masks](https://twitter.com/newbalance/status/1243698939355893761)
+
 ### [Nintendo](https://www.nintendo.com/)
 * [Donating masks](https://www.siliconera.com/nintendo-of-america-gives-a-washington-fire-department-95000-n95-masks/)
 
